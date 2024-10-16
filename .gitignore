@@ -8,6 +8,10 @@ resources
 # C extensions
 *.so
 data
+models
+tokenizers
+llm.py
+licences
 # Distribution / packaging
 .Python
 build/
